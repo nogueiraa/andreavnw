@@ -1,0 +1,40 @@
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background:url(./img/01.jpg)center; 
+	background-repeat: no-repeat;
+	background-size: cover;	
+}
+h1{
+width: 100%;
+text-align: center;
+}
+img{
+	border-radius: 50%;
+}
+.bolinho1{
+	width:15%;
+	margin-left:05%;
+}
+.bolinho2{
+	width:15%;
+	margin-left:05%;
+}	
+.bolinho3{
+	width:15%;
+	margin-left:05%;
+}
+.bolinho4{
+	width:15%;
+	margin-left:05%;
+}
+.bolinho5{
+	width:15%;
+	margin-left:05%;
+}
+nav {
+text-align :center;
+height: 20px;
+
+}
